@@ -461,7 +461,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -488,7 +488,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/likewooly-black-389x406.png",
+              "src": "@PROJECT_PATH@/assets/images/likewooly-blue-389x406.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -541,7 +541,7 @@
           "title1": "",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Черный",
+          "title2": "Голубой",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "",
           "title3": "Коралловый",
