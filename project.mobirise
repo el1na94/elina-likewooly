@@ -504,7 +504,7 @@
           "form": {
             "action": "e.shkista@gmail.com",
             "alerts": {
-              "success": "Ваш заказ будет отправлен с любовью!"
+              "success": "Компания LikeWoolly благодарит вас за заказ.\n       Ваш заказ будет отправлен с любовью!"
             },
             "fields": {
               "name": {
