@@ -498,7 +498,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Сделай заявку на заказ",
+          "title": "Заявка на заказ продукта",
           "subtitle": "Мы готовы предоставить уникальные аксессуары и предметы интерьера из шерсти мериноса.<br>Напишите ваши пожелания, цвет и размер - мы подготовим вам ценовое предложение в течении нескольких часов!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
           "form": {
