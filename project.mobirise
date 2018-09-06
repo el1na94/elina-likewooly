@@ -333,7 +333,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
@@ -351,7 +351,7 @@
           },
           "title": "Плюсы шерсти мериноса<br><br>",
           "text": "<span style=\"font-style: normal;\">•\tПрактичность\n<br>\t•\tДолговечность\n<br>\t•\tАнтибактериальна\n<br>\t•\tТеплоизоляционность\n<br>\t•\tОтталкивает запахи <br>\n\t•\tАнтибактериальность</span>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> ",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B8%D0%BD%D0%BE%D1%81\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a> ",
           "_tags": [
             "Theme"
           ],
