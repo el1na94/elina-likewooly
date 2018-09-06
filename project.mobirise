@@ -462,7 +462,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/likewooly-color3-990x248.png",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
